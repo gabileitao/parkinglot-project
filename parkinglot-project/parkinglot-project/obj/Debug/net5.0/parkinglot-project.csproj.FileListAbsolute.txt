@@ -1,0 +1,16 @@
+C:\Users\pedro\Desktop\maria\parkinglot-project\parkinglot-project\parkinglot-project\obj\Debug\net5.0\parkinglot-project.csproj.AssemblyReference.cache
+C:\Users\pedro\Desktop\maria\parkinglot-project\parkinglot-project\parkinglot-project\obj\Debug\net5.0\parkinglot-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Desktop\maria\parkinglot-project\parkinglot-project\parkinglot-project\obj\Debug\net5.0\parkinglot-project.AssemblyInfoInputs.cache
+C:\Users\pedro\Desktop\maria\parkinglot-project\parkinglot-project\parkinglot-project\obj\Debug\net5.0\parkinglot-project.AssemblyInfo.cs
+C:\Users\pedro\Desktop\maria\parkinglot-project\parkinglot-project\parkinglot-project\obj\Debug\net5.0\parkinglot-project.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\maria\parkinglot-project\parkinglot-project\parkinglot-project\bin\Debug\net5.0\parkinglot-project.exe
+C:\Users\pedro\Desktop\maria\parkinglot-project\parkinglot-project\parkinglot-project\bin\Debug\net5.0\parkinglot-project.deps.json
+C:\Users\pedro\Desktop\maria\parkinglot-project\parkinglot-project\parkinglot-project\bin\Debug\net5.0\parkinglot-project.runtimeconfig.json
+C:\Users\pedro\Desktop\maria\parkinglot-project\parkinglot-project\parkinglot-project\bin\Debug\net5.0\parkinglot-project.runtimeconfig.dev.json
+C:\Users\pedro\Desktop\maria\parkinglot-project\parkinglot-project\parkinglot-project\bin\Debug\net5.0\parkinglot-project.dll
+C:\Users\pedro\Desktop\maria\parkinglot-project\parkinglot-project\parkinglot-project\bin\Debug\net5.0\ref\parkinglot-project.dll
+C:\Users\pedro\Desktop\maria\parkinglot-project\parkinglot-project\parkinglot-project\bin\Debug\net5.0\parkinglot-project.pdb
+C:\Users\pedro\Desktop\maria\parkinglot-project\parkinglot-project\parkinglot-project\obj\Debug\net5.0\parkinglot-project.dll
+C:\Users\pedro\Desktop\maria\parkinglot-project\parkinglot-project\parkinglot-project\obj\Debug\net5.0\ref\parkinglot-project.dll
+C:\Users\pedro\Desktop\maria\parkinglot-project\parkinglot-project\parkinglot-project\obj\Debug\net5.0\parkinglot-project.pdb
+C:\Users\pedro\Desktop\maria\parkinglot-project\parkinglot-project\parkinglot-project\obj\Debug\net5.0\parkinglot-project.genruntimeconfig.cache
