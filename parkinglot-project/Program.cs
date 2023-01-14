@@ -6,9 +6,9 @@ namespace parkinglot_project {
         static void Main(string[] args) {
             Console.WriteLine("Bem-vindo ao Estacionamento!");
             Console.WriteLine("Digite o valor do pagamento inicial:");
-            int initialPayment = int.Parse(Console.ReadLine());
+            decimal initialPayment = Convert.ToDecimal(Console.ReadLine());
             Console.WriteLine("Digite o valor cobrado pelas horas: ");
-            int hourlyPayment = int.Parse(Console.ReadLine());
+            decimal hourlyPayment = Convert.ToDecimal(Console.ReadLine());
             Console.Clear();
 
             List<string> inTheParkingLot = new List<string>();
@@ -29,7 +29,7 @@ namespace parkinglot_project {
                     }
                     case "2": {
                         if (inTheParkingLot.Count > 0) {
-                            double valueParking = 0;
+                            decimal valueParking;
                             Console.WriteLine("Digite a placa: ");
                             string plate = Console.ReadLine();
                             Console.WriteLine("Digite a quantidade de horas que o veículo permaneceu estacionado: ");
@@ -54,6 +54,10 @@ namespace parkinglot_project {
                     case "4": {
                         chooseOption = true;
                         Console.Clear();
+                        break;
+                    }
+                    default: {
+                        Console.WriteLine("Opção inválida");
                         break;
                     }
                 }
